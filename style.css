@@ -43,3 +43,15 @@ form input{
 #equal{
     width: 145px;
 }
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px auto;
+    
+}
+.footer{
+    color:chocolate;
+    padding-top: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
